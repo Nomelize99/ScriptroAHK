@@ -1,7 +1,7 @@
 # ScriptroAHK
 
 ### How to Install AHK
-Download here https://www.autohotkey.com/ and get my script. Don't forget<code> Run As administrator </code>for use it.
+Download here https://www.autohotkey.com/ and get my script. Don't forget <code>Run As administrator</code> script for use it.
 
 ### Ex my function
 1. auto press skill(spam, Dont need to click for use some skill) or potion (Hold Mode).
